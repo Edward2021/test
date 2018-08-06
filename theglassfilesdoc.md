@@ -84,19 +84,19 @@ inline_errors => true
 
 * en:
   * activerecord:
-    * errors:
-      * models:
-        * user:
-          * attributes:
-            * name_first:
-              * blank: "is required "
-  * email:
-   * blank: "is required "
+   * errors:
+    * models:
+     * user:
+      * attributes:
+       * name_first:
+        * blank: "is required "
+ * email:
+  * blank: "is required "
    * invalid: "is not valid"
-  * password:
-   * blank: "is required "
-  * password_confirmation:
-   * blank: "is required "
+ * password:
+  * blank: "is required "
+   * password_confirmation:
+    * blank: "is required "
 
 
 devise errors
