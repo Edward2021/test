@@ -82,21 +82,21 @@ inline_errors => true
 * validation errors
 * theglassfiles_com/config/locales/en.yml
 
-* en:
- * activerecord:
-  * errors:
-   * models:
-    * user:
-     * attributes:
-      * name_first:
-       * blank: "is required "
+ * en:
+  * activerecord:
+   * errors:
+    * models:
+     * user:
+      * attributes:
+       * name_first:
+        * blank: "is required "
  * email:
   * blank: "is required "
-   * invalid: "is not valid"
+  * invalid: "is not valid"
  * password:
   * blank: "is required "
-   * password_confirmation:
-    * blank: "is required "
+  * password_confirmation:
+  * blank: "is required "
 
 
 devise errors
