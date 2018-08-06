@@ -1,5 +1,5 @@
 # TYPE 1:
-  *messages
+  * messages
 
 TYPE 2:
 label_errors => true
