@@ -91,13 +91,13 @@ inline_errors => true
        * name_first:
         * blank:
         
- ** email: "is required "
-  ** blank: "is required "
-  ** invalid: "is not valid"
- ** password:
-  ** blank: "is required "
-  ** password_confirmation:
-  ** blank: "is required "
+ _email: "is required "
+  blank: "is required "
+   invalid: "is not valid"
+   password:
+   blank: "is required "
+   password_confirmation:
+   blank: "is required "
 
 
 devise errors
