@@ -1,4 +1,4 @@
-# TYPE 1:
+## TYPE 1:
   * messages
 
 TYPE 2:
