@@ -89,8 +89,9 @@ inline_errors => true
      * user:
       * attributes:
        * name_first:
-        * blank: "is required "
- ** email:
+        * blank:
+        
+ ** email: "is required "
   ** blank: "is required "
   ** invalid: "is not valid"
  ** password:
