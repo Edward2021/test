@@ -83,13 +83,13 @@ inline_errors => true
 * theglassfiles_com/config/locales/en.yml
 
 * en:
-  * activerecord:
-   * errors:
-    * models:
-     * user:
-      * attributes:
-       * name_first:
-        * blank: "is required "
+ * activerecord:
+  * errors:
+   * models:
+    * user:
+     * attributes:
+      * name_first:
+       * blank: "is required "
  * email:
   * blank: "is required "
    * invalid: "is not valid"
